@@ -11,7 +11,7 @@ body {
     align-items: center;
     min-height: 100vh;
 /*    background: #111;*/
-    background: url('https://i.imgur.com/E8ase4k.jpg');
+    background: url('image2.jpg');
     background-size: cover;
     background-position: center;
     backdrop-filter: blur(5px);
@@ -28,7 +28,7 @@ body {
 .calendar #monthName {
     position: relative;
     padding: 5px 10px;
-    background: #ff6331;
+    background: #db5d83;
     color: #fff;
     font-size: 30px;
     font-weight: 700;
